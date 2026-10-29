@@ -5,5 +5,5 @@ Simple Vite-React starter with typescript and tailwind, complete with a `cn()` f
 If you want JavaScript instead of typescript, just clone the `js` branch:
 
 ```sh
-git clone https://github.com/saverioscagnoli/vite-react-tailwind
+git clone https://github.com/saverioscagnoli/vite-react-tailwind -b js
 ```
